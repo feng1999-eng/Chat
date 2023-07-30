@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/ChatServer.cpp.o -c /root/Chat/src/server/ChatServer.cpp",
+  "file": "/root/Chat/src/server/ChatServer.cpp"
+},
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/ChatService.cpp.o -c /root/Chat/src/server/ChatService.cpp",
+  "file": "/root/Chat/src/server/ChatService.cpp"
+},
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/friendmodel.cpp.o -c /root/Chat/src/server/friendmodel.cpp",
+  "file": "/root/Chat/src/server/friendmodel.cpp"
+},
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /root/Chat/src/server/main.cpp",
+  "file": "/root/Chat/src/server/main.cpp"
+},
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o -c /root/Chat/src/server/offlinemessagemodel.cpp",
+  "file": "/root/Chat/src/server/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/usermodel.cpp.o -c /root/Chat/src/server/usermodel.cpp",
+  "file": "/root/Chat/src/server/usermodel.cpp"
+},
+{
+  "directory": "/root/Chat/build/src/server",
+  "command": "/usr/bin/c++   -I/root/Chat/include -I/root/Chat/include/server -I/root/Chat/include/server/db -I/root/Chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/Chat/src/server/db/db.cpp",
+  "file": "/root/Chat/src/server/db/db.cpp"
+}
+]
